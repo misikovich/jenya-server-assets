@@ -1,5 +1,5 @@
 #!/bin/bash
 cd "$(dirname "$0")"
 rm -f resource-pack.zip
-zip -r resource-pack.zip pack.mcmeta pack.png assets/
+zip -r resource-pack.zip pack.mcmeta pack.png assets/ -x "**/.DS_Store"
 echo "Done: resource-pack.zip"
