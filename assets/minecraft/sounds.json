@@ -1,0 +1,41 @@
+{
+  "entity.cat.ambient": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "entity/cat/meeoww",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "weight": 1
+      },
+      {
+        "name": "entity/cat/meeoww",
+        "volume": 1.0,
+        "pitch": 2,
+        "weight": 1
+      }
+    ]
+  },
+  "entity.chicken.ambient": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "entity/chicken/immaslos",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "weight": 1
+      }
+    ]
+   },
+   "entity.burmalda.hamamdance": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "entity/burmalda/hamamdance",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "weight": 1
+      }
+    ]
+   }
+}
