@@ -282,6 +282,17 @@
     }
   ]
   },
+  "item.armor.equip_elytra": {
+  "replace": true,
+  "sounds": [
+    {
+      "name": "item/armor/axmat-sila",
+      "volume": 1.2,
+      "pitch": 1.0,
+      "weight": 1
+    }
+  ]
+  },
   "entity.player.death": {
     "replace": true,
     "sounds": [
