@@ -281,5 +281,39 @@
       "weight": 1
     }
   ]
+  },
+  "entity.player.death": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "entity/player/lego-breaking",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "weight": 4
+      },
+      {
+        "name": "entity/player/lego-breaking",
+        "volume": 1.0,
+        "pitch": 0.7,
+        "weight": 1
+      },
+      {
+        "name": "entity/player/lego-breaking",
+        "volume": 1.0,
+        "pitch": 1.4,
+        "weight": 1
+      }
+    ]
+  },
+  "entity.firework_rocket.launch": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "entity/firework_rocket/dry-fart",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "weight": 1
+      }
+    ]
   }
 }
